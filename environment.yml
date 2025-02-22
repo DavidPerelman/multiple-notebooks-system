@@ -1,0 +1,15 @@
+name: create_forecast_v9.0.0
+channels:
+  - conda-forge
+  - defaults
+
+dependencies:
+  - python=3.10.16
+  - ipykernel=6.29.5
+  - papermill=2.6.0
+  - pandas=2.2.3
+  - geopandas=1.0.1
+  - openpyxl=3.1.5
+  - ipywidgets=8.1.5
+  - fiona=1.9.5
+  - gdal=3.7.3
